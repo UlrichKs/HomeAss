@@ -104,7 +104,7 @@ blueprint:
           mode: slider
           min: 0
           max: 100
-      default: 5
+      default: 1
     push_icon:
       name: Icon Mode
       description:
